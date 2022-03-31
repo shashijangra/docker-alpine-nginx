@@ -4,7 +4,9 @@
 # https://aka.ms/yaml
 
 pr:
-- '*'
+- master
+- dev
+- dev1
 
 pool:
   vmImage: ubuntu-latest
